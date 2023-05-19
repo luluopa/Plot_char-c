@@ -26,7 +26,6 @@ g++ matrix_reloaded.cpp -o matrix_reloaded
 ### Run the program:
 
 ```shell
-Copy code
 ./matrix_reloaded
 ```
 
